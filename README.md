@@ -1,2 +1,2 @@
-# CS211-Autumn-2019
-ICT Fundamentals Autumn 2019
+# CS211-Winter-2020
+ICT Fundamentals Winter 2020
